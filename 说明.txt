@@ -1,0 +1,20 @@
+技术栈：Python3.x  MySQL数据库  Django框架 Echarts可视化  协同过滤推荐算法  html 
+运行
+1、下载安装MySQL数据库
+2、通过Navicat软件新建数据库recommend，并导入数据库文件recommend.sql
+3、pycharm打开整个项目文件夹
+4、配置本地Python环境 （选择自己的python编译器，建议创建一个虚拟环境）
+5、安装依赖库，在终端窗口（Teminal）输入命令：
+pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
+6、启动项目，在终端窗口输入命令：
+python manage.py runserver
+7、浏览器打开网站：
+http://127.0.0.1:8000/
+
+
+账号admins  密码admins
+
+
+
+
+
